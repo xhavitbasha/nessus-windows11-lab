@@ -16,7 +16,7 @@ environment, and analyzes the difference in findings between the two.
 
 ## Objectives
 
-- Build a deliberately vulnerable Windows 10 VM
+- Build a deliberately vulnerable Windows 11 VM
 - Perform a basic (unauthenticated) network scan
 - Prepare the host for credentialed scanning
 - Perform a credentialed (authenticated) scan
@@ -28,7 +28,7 @@ environment, and analyzes the difference in findings between the two.
 | Tool | Purpose |
 |------|---------|
 | Oracle VirtualBox | Virtualization platform |
-| Windows 10 | Target host |
+| Windows 11 | Target host |
 | Tenable Nessus Essentials | Vulnerability scanner |
 
 ## Project Structure
