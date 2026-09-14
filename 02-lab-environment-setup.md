@@ -34,7 +34,6 @@ directly with the host machine for scanning, without exposing the VM to
 the wider network. Connectivity between host and VM was verified with a 
 simple `ping` before any scanning began.
 
-*Screenshot: UTM VM configuration panel*
 
 ---
 
@@ -47,7 +46,7 @@ protection was configured beyond the default Windows Defender state,
 and the machine was left with its default out-of-box configuration 
 prior to weakening.
 
- Windows 11 `winver` dialog showing version 25H2 (Build 26200.6584)
+ *Windows 11 `winver` dialog showing version 25H2 (Build 26200.6584)*
 
 <img width="460" height="417" alt="Screenshot 2026-09-14 at 18 56 16" src="https://github.com/user-attachments/assets/6cb94084-9710-4ea2-bc40-d034ff82fe65" />
 
@@ -72,7 +71,7 @@ patched system would not exhibit.
 2. Selected **Uninstall updates**
 3. Removed the updates listed in the system
 
-Windows Update → Uninstall updates page (showing "No updates found" after removal)
+*Windows Update → Uninstall updates page (showing "No updates found" after removal)*
 
 <img width="670" height="181" alt="Screenshot 2026-09-14 at 18 55 18" src="https://github.com/user-attachments/assets/e8df6432-de69-4ba9-8a54-ddcbfaae3ddc" />
 
@@ -88,7 +87,7 @@ host-based network filtering layer entirely.
 2. Selected each profile individually
 3. Toggled **Microsoft Defender Firewall** to **Off** for all three
 
-Firewall & network protection showing all profiles off
+*Firewall & network protection showing all profiles off*
 
 <img width="1920" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/661d0702-8ecd-48aa-a051-f22269e3020b" />
 
@@ -100,7 +99,9 @@ Legacy browser versions are a common finding in real-world assessments
 because users rarely update them, and they frequently expose the host 
 to publicly-known browser exploits.
 
-*Screenshot: Chrome version / About Chrome page*
+ *Chrome version / About Chrome page*
+ 
+<img width="399" height="205" alt="Screenshot 2026-09-14 at 19 15 32" src="https://github.com/user-attachments/assets/e1bccac7-a531-45c4-82c6-4b7d44919350" />
 
 ---
 
@@ -114,9 +115,10 @@ network. This provided:
 - Isolation from the internet to prevent accidental exposure
 - Direct reachability verified with `ping` from the host to the VM
 
-*Screenshot: Network adapter settings in UTM*
 
-*Screenshot: Successful ping from host to VM*
+ *Successful ping from host to VM*
+ 
+<img width="631" height="251" alt="Screenshot 2026-09-14 at 19 17 22" src="https://github.com/user-attachments/assets/c8f1ecdd-fa09-488c-ab06-52dabc21f810" />
 
 ---
 
