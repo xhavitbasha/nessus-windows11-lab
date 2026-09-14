@@ -47,9 +47,9 @@ or home-office environments where endpoints are not centrally managed.
 
 | Tool | Version | Purpose |
 |------|---------|---------|
-| Oracle VirtualBox | X.X | Virtualization platform |
-| Windows 10 | Build XXXX | Target operating system |
-| Tenable Nessus Essentials | X.X | Vulnerability scanner |
+| UTM (QEMU-based hypervisor for macOS) | X.X | Virtualization platform |
+| Windows 11 Pro | 25H2, Build 26200.6584 | Target operating system |
+| Tenable Nessus Essentials | 10.12.4  | Vulnerability scanner |
 
 ## Skills Demonstrated
 
