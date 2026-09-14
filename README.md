@@ -1,4 +1,4 @@
-# nessus-windows11-lab
+# Nessus-windows11-lab
 
 # Nessus Vulnerability Assessment – Windows 11 Lab
 
