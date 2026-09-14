@@ -27,7 +27,7 @@ environment, and analyzes the difference in findings between the two.
 
 | Tool | Purpose |
 |------|---------|
-| Oracle VirtualBox | Virtualization platform |
+| UTM | Virtualization platform |
 | Windows 11 | Target host |
 | Tenable Nessus Essentials | Vulnerability scanner |
 
