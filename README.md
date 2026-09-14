@@ -1,6 +1,6 @@
 # nessus-windows11-lab
 
-# Nessus Vulnerability Assessment – Windows 10 Lab
+# Nessus Vulnerability Assessment – Windows 11 Lab
 
 A hands-on vulnerability assessment of an intentionally weakened Windows 10 
 virtual machine using Tenable Nessus. This project demonstrates both 
