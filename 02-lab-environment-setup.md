@@ -47,7 +47,9 @@ protection was configured beyond the default Windows Defender state,
 and the machine was left with its default out-of-box configuration 
 prior to weakening.
 
-*Screenshot: Windows 11 `winver` dialog showing version 25H2 (Build 26200.6584)*
+ Windows 11 `winver` dialog showing version 25H2 (Build 26200.6584)
+
+<img width="460" height="417" alt="Screenshot 2026-09-14 at 18 56 16" src="https://github.com/user-attachments/assets/6cb94084-9710-4ea2-bc40-d034ff82fe65" />
 
 ---
 
@@ -70,7 +72,10 @@ patched system would not exhibit.
 2. Selected **Uninstall updates**
 3. Removed the updates listed in the system
 
-*Screenshot: Windows Update → Uninstall updates page (showing "No updates found" after removal)*
+Windows Update → Uninstall updates page (showing "No updates found" after removal)
+
+<img width="670" height="181" alt="Screenshot 2026-09-14 at 18 55 18" src="https://github.com/user-attachments/assets/e8df6432-de69-4ba9-8a54-ddcbfaae3ddc" />
+
 
 ### Weakness 2 – Disabled Windows Firewall (All Profiles)
 
@@ -83,7 +88,10 @@ host-based network filtering layer entirely.
 2. Selected each profile individually
 3. Toggled **Microsoft Defender Firewall** to **Off** for all three
 
-*Screenshot: Firewall & network protection showing all profiles off*
+Firewall & network protection showing all profiles off
+
+<img width="1920" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/661d0702-8ecd-48aa-a051-f22269e3020b" />
+
 
 ### Weakness 3 – Installed Outdated Google Chrome
 
