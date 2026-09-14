@@ -1,4 +1,4 @@
-# nessus-windows10-lab
+# nessus-windows11-lab
 
 # Nessus Vulnerability Assessment – Windows 10 Lab
 
