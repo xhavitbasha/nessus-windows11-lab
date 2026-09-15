@@ -35,7 +35,10 @@ comparison in Section 06 a clean, controlled experiment.
 The same **Basic Network Scan** policy from Section 04 was reused. Only 
 the Credentials tab was populated — everything else was unchanged.
 
-*Screenshot: Scan configuration showing credentials configured*
+*Scan configuration showing credentials configured*
+
+<img width="1341" height="918" alt="Screenshot 2026-09-15 at 13 59 31" src="https://github.com/user-attachments/assets/af27fb6e-6ff0-4e8c-975e-b674e02047c9" />
+
 
 ---
 
@@ -78,7 +81,9 @@ dramatic difference. **The single most important finding is the Critical
 CVSS 9.8 vulnerability — something the unauthenticated scan could not 
 detect at all.**
 
-*Screenshot: Severity donut chart from the credentialed scan*
+*Severity donut chart from the credentialed scan*
+
+<img width="309" height="217" alt="Screenshot 2026-09-15 at 14 00 25" src="https://github.com/user-attachments/assets/f1d2eeff-15b7-4463-984e-aaef91211eaf" />
 
 ---
 
@@ -120,7 +125,9 @@ is only visible from inside the operating system.
 > Windows Update or WSUS. Verify the patch level after installation with 
 > `Get-HotFix` or by re-scanning.
 
-*Screenshot: Critical finding detail page in Nessus*
+*Critical finding detail page in Nessus*
+
+<img width="1396" height="1034" alt="Screenshot 2026-09-15 at 14 01 15" src="https://github.com/user-attachments/assets/99a5a04a-ef00-4e0a-b4b7-9ec916d7adfc" />
 
 ---
 
@@ -151,7 +158,9 @@ movement.
 > typically delivered via the Microsoft Store or through the App Installer 
 > package.
 
-*Screenshot: WinGet finding detail page in Nessus*
+*WinGet finding detail page in Nessus*
+
+<img width="1400" height="924" alt="Screenshot 2026-09-15 at 14 02 16" src="https://github.com/user-attachments/assets/f73cd37d-7ad7-4097-88cb-2510896ea248" />
 
 ---
 
@@ -178,7 +187,9 @@ knowledge base articles. None of this is possible without credentials.
 > 5066835 and any bulletins with Critical or High severity. Re-scan 
 > after patching to confirm remediation.
 
-*Screenshot: Missing patch / bulletin findings list*
+*Missing patch / bulletin findings list*
+
+<img width="1372" height="568" alt="Screenshot 2026-09-15 at 14 03 21" src="https://github.com/user-attachments/assets/53f42757-5fa7-408b-95e4-387c83afed05" />
 
 ---
 
