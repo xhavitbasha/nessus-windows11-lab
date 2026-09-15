@@ -58,6 +58,7 @@ patches.
 6. Clicked **Apply**, then **OK**
 
 *Remote Registry service set to Automatic and running*
+
 <img width="400" height="467" alt="Screenshot 2026-09-15 at 13 34 24" src="https://github.com/user-attachments/assets/86ab425e-9797-4a18-b4b7-22c4b8ddfabe" />
 
 ---
