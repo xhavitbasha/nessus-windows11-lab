@@ -31,7 +31,11 @@ The **Basic Network Scan** template was used with default settings. The
 Credentials tab was left completely empty, ensuring the scan ran purely 
 from an external perspective.
 
-*Screenshot: Scan configuration showing no credentials*
+*Scan configuration showing no credentials*
+<img width="1096" height="578" alt="Screenshot 2026-09-15 at 13 52 58" src="https://github.com/user-attachments/assets/f4fc2315-4557-458e-8bc9-accf0ff05cae" />
+
+
+
 
 ---
 
@@ -54,7 +58,8 @@ findings and nothing above Low. This is typical of unauthenticated scans:
 without the ability to log in, Nessus can only observe what services the 
 host exposes and how they respond.
 
-*Screenshot: Severity donut chart from the unauthenticated scan*
+*Severity donut chart from the unauthenticated scan*
+<img width="298" height="223" alt="Screenshot 2026-09-15 at 13 51 51" src="https://github.com/user-attachments/assets/72d25ce4-89c7-4280-a19b-641bd3b96731" />
 
 ---
 
@@ -108,7 +113,8 @@ The remaining 13 findings were informational and included:
 These are not vulnerabilities in themselves — they are the raw 
 observations Nessus collected while probing the host from the outside.
 
-*Screenshot: Vulnerability list from the unauthenticated scan*
+*Vulnerability list from the unauthenticated scan*
+<img width="1575" height="1037" alt="Screenshot 2026-09-15 at 13 51 25" src="https://github.com/user-attachments/assets/8f6685f5-027f-43f8-8e3b-af2f233aa7e7" />
 
 ---
 
